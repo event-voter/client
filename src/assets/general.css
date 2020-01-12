@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background: #f2f3f8;
+}
+
+*{
+    box-sizing: border-box;
+    outline: none;
+    font-family: "Karla";
+}
+
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}

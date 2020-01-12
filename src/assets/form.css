@@ -1,0 +1,18 @@
+.input-standart{
+    width: 90%;
+    height: 60px;
+}
+
+.input-centersmall{
+    width: calc(60% - 75px);
+    height: 60px;
+    background: #fafbff;
+    font-size: 32px;
+    color: #444444;
+    text-align: center;
+    border: 2px solid #41b883;
+    border-radius: 5px;
+    /* box-shadow: inset 0 1 3px #000000; */
+    box-shadow: 1px 4px 9px -6px gray inset;
+    padding: 0px 15px 0px 15px;
+}

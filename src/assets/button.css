@@ -1,0 +1,45 @@
+.button-standart{
+    width: 80%;
+}
+
+.button-squareicon{
+    width: 60px;
+    height: 60px;
+    font-size: 32px;
+    border-radius: 5px;
+    margin: 0px 0px 0px 15px;
+}
+
+.button-squareinputencenterer{
+    width: 60%;
+    height: 60px;
+    line-height: 55px;
+    font-size: 32px;
+    border-radius: 5px;
+}
+
+.button-primary{
+    background: #41b883;
+    color: #fff;
+}
+
+.button-secondary{
+    background: #34495e;
+    color: #fff;
+}
+
+.button-primary:focus{
+    background: 
+}
+
+.button-secondary:focus{
+    background: 
+}
+
+.button-primary:active{
+
+}
+
+.button-secondary:active{
+
+}

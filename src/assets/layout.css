@@ -1,0 +1,9 @@
+/* Usage of the margin must be hamburger */
+
+.margin-lower{
+    margin: 10px 0px 10px 0px;
+}
+
+.margin-greater{
+    margin: 35px 0px 35px 0px;
+}
