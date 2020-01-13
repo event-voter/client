@@ -32,3 +32,15 @@
     color: #34495e;
     font-weight: bold;
 }
+
+.label-inputicon{
+    width: 32px;
+    height: 60px;
+    color: #34495e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+    margin: 0px 15px 0px 0px;
+    text-decoration: none;
+}

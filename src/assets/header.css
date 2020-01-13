@@ -1,11 +1,11 @@
 .header-bar{
     width: 100%;
     height: 60px;
-    background: blue;
+    background: #41b883;
 }
 
 .header-logo{
     width: 144px;
     height: 60px;
-    background: red;
+    background: #34495e;
 }
