@@ -48,3 +48,22 @@
     background: #243342;
     transition: 0s;
 }
+
+.button-date{
+    background: #fffdff;
+    margin: 15px;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: large;
+}
+
+.button-date-picked{
+    background: #41b883;
+    color: #fff;
+}
+
+.button-date:active{
+    background: #2d805b;
+}

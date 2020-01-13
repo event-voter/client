@@ -3,7 +3,7 @@
     <div class="label-main margin-greater" align="center">
         <div class="text-header text-primary margin-greater">New Event</div>
     </div>
-
+    <date-box day="senin" date="1-1-2020"></date-box>
     <div class="margin-greater" align="center">
         <div class="text-body margin-lower">Nama event</div>
         <div class="margin-greater-down" style="display:flex;align-content:center;justify-content:center;">
