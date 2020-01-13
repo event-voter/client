@@ -2,30 +2,25 @@
   <div id="app">
     <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no" />
-    <link href="https://fonts.googleapis.com/css?family=Karla&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <div class="header-bar"><div class="header-logo"></div></div>
-  <Home msg="a"/>
+  <!-- <Home msg="a"/> -->
+  <router-view></router-view>
   </div>
-
-  <!-- <div id="app">
-    <h1>a {{ product }}</h1>
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </div>
-    <router-view/>
-  </div> -->
 </template>
 
 <script>
 // @ is an alias to /src
-import Home from '@/views/Homehome.vue'
+// import Home from '@/views/Homehome.vue'
+// import Room from "@/views/Room.vue"
 
 export default {
   name: 'App',
   components: {
-    Home
+    // Home
+    // Room
   }
 }
 </script>
