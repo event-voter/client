@@ -7,3 +7,11 @@
 .margin-greater{
     margin: 35px 0px 35px 0px;
 }
+
+.margin-greater-up{
+    margin: 35px 0px 10px 0px;
+}
+
+.margin-greater-down{
+    margin: 10px 0px 35px 0px;
+}

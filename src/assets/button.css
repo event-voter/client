@@ -1,13 +1,18 @@
 .button-standart{
     width: 80%;
+    text-decoration: none;
 }
 
 .button-squareicon{
     width: 60px;
     height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-size: 32px;
     border-radius: 5px;
     margin: 0px 0px 0px 15px;
+    text-decoration: none;
 }
 
 .button-squareinputencenterer{
@@ -21,25 +26,21 @@
 .button-primary{
     background: #41b883;
     color: #fff;
+    transition: background 1s 0s ease-out;
 }
 
 .button-secondary{
     background: #34495e;
     color: #fff;
-}
-
-.button-primary:focus{
-    background: 
-}
-
-.button-secondary:focus{
-    background: 
+    transition: background 1s 0s ease-out;
 }
 
 .button-primary:active{
-
+    background: #2d805b;
+    transition: 0s;
 }
 
 .button-secondary:active{
-
+    background: #243342;
+    transition: 0s;
 }
