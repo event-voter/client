@@ -8,7 +8,7 @@
     <div class="margin-greater" align="center">
         <div class="label-input margin-lower">Your Event ID</div>
         <div class="margin-lower" style="display:flex;align-content:center;justify-content:center;">
-            <input class="input-basic input-centersmall" type="text"><div class="button-squareicon button-primary"><i class="fa fa-arrow-right"></i></div>
+            <input class="input-basic input-centersmall" type="text"><div class="button-squareicon button-primary"><i class="fas fa-arrow-right"></i></div>
         </div>
         <div class="button-squareinputencenterer button-secondary margin-greater" v-ripple>Baru +</div>
     </div>

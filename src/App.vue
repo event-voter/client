@@ -3,7 +3,7 @@
     <meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
     <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Karla&display=swap">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     
     <div class="header-bar"><div class="header-logo"></div></div>
   <!-- <Home msg="a"/> -->

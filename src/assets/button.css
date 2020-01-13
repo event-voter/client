@@ -1,5 +1,9 @@
 .button-standart{
-    width: 80%;
+    width: 90%;
+    height: 60px;
+    line-height: 55px;
+    font-size: 32px;
+    border-radius: 5px;
     text-decoration: none;
 }
 
@@ -16,7 +20,7 @@
 }
 
 .button-squareinputencenterer{
-    width: 60%;
+    width: 70%;
     height: 60px;
     line-height: 55px;
     font-size: 32px;
