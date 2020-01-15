@@ -3,6 +3,11 @@
     color: #444444;
 }
 
+.text-secondary{
+    font-family: "Karla";
+    color: #34495e;
+}
+
 .text-header{
     font-size: 32px;
     font-weight: bold;
@@ -31,6 +36,13 @@
     font-size: 32px;
     color: #34495e;
     font-weight: bold;
+}
+
+.label-input-standart{
+    width: calc(90% - 47px);
+    display: flex;
+    align-items: flex-end;
+    text-align: left;
 }
 
 .label-inputicon{
