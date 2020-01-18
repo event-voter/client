@@ -12,7 +12,7 @@ Vue.use(VueRouter)
 const routes = [
   {path: '/', name: 'home', component: InputEventAsal},
   {path: '/about', name: 'about', component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')},
-  {path: '/createroom', component: NewRoom},
+  {path: '/createroom', component: NewRoom, props: true},
   {path: '/event/voting', component: RoomVoteYet},
   {path: '/events', component: ListEvent},
   {path: '/randomevent', name: 'home', component: InputEventAsal},

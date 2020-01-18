@@ -4,6 +4,14 @@
     margin: 10px 0px 10px 0px;
 }
 
+.margin-lower-down{
+    margin: 0px 0px 10px 0px;
+}
+
+.margin-lower-up{
+    margin: 10px 0px 0px 0px;
+}
+
 .margin-greater{
     margin: 35px 0px 35px 0px;
 }
@@ -14,4 +22,28 @@
 
 .margin-greater-down{
     margin: 10px 0px 35px 0px;
+}
+
+.mocker-input-basic{
+    height: 60px;
+}
+.mocker-input-standart{
+    width: calc(90% - 47px);
+    height: 60px;
+}
+
+.mocker-label-inputicon{
+    width: 47px;
+    height: 60px;
+    text-decoration: none;
+}
+
+.mocker-label-inputicon-zero{
+    width: 47px;
+    text-decoration: none;
+}
+
+.mocker-input-standart-zero{
+    width: calc(90% - 47px);
+    text-decoration: none;
 }

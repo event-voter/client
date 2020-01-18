@@ -13,6 +13,9 @@
         <div class="button-squareinputencenterer button-secondary margin-greater" v-ripple>
             Baru +
         </div>
+        <router-link :to="{path: '/createroom', params:{msg}}">
+        <div class="button-squareinputencenterer button-secondary margin-greater" v-ripple>Baru +</div>
+        </router-link>
     </div>
 </div>
 </template>
