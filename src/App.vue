@@ -11,7 +11,7 @@
 </template>
 
 <script>
-// @ is an alias to /src
+// @ is an alias to /src  
 // import Home from '@/views/Homehome.vue'
 // import dateBox from "@/components/date-box.vue"
 

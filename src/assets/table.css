@@ -1,0 +1,17 @@
+table {
+    border-spacing: 0;
+} 
+
+th{
+    background-color: #41b883 !important;
+    border-bottom: #41b883 2px solid !important;
+    margin: 10px;
+}
+td{
+    color: #34495e;
+}
+
+.th-dark{
+    color: #fff;
+    width: 34%;
+}
