@@ -10,7 +10,9 @@
         <div class="margin-lower" style="display:flex;align-content:center;justify-content:center;">
             <input class="input-basic input-centersmall" type="text"><div class="button-squareicon button-primary"><i class="fas fa-arrow-right"></i></div>
         </div>
+        <router-link :to="{path: '/createroom', params:{msg}}">
         <div class="button-squareinputencenterer button-secondary margin-greater" v-ripple>Baru +</div>
+        </router-link>
     </div>
 </div>
 </template>

@@ -9,7 +9,7 @@ Vue.use(VueRouter)
 const routes = [
   {path: '/', name: 'home', component: Home},
   {path: '/about', name: 'about', component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')},
-  {path: '/createroom', component: NewRoom},
+  {path: '/createroom', component: NewRoom, props: true},
 
   //Dynamic routing must always go deep down below hell
   {path: '/:roomid', component: Room},
