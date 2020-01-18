@@ -7,6 +7,7 @@ body{
     box-sizing: border-box;
     outline: none;
     font-family: "Karla";
+    text-decoration: none;
 }
 
 input:focus, textarea:focus, select:focus{

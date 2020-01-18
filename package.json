@@ -8,7 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@kalashnikov/kumpulyuk-rolldate": "0.0.1",
+    "@nandyo/kumpulyuk-rolldate": "0.0.1",
     "core-js": "^3.4.4",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",

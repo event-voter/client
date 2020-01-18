@@ -8,6 +8,11 @@
     color: #34495e;
 }
 
+.text-counterprimary{
+    font-family: "Karla";
+    color: #41b883;
+}
+
 .text-header{
     font-size: 32px;
     font-weight: bold;
@@ -55,4 +60,8 @@
     font-size: 32px;
     margin: 0px 15px 0px 0px;
     text-decoration: none;
+}
+
+.label-bigcardicon{
+    font-size: 200px;
 }
