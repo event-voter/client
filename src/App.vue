@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     
     <div class="header-bar"><div class="header-logo"></div></div>
-  <!-- <Home msg="a"/> -->
   <router-view></router-view>
   </div>
 </template>
@@ -14,13 +13,11 @@
 <script>
 // @ is an alias to /src
 // import Home from '@/views/Homehome.vue'
-// import Room from "@/views/Room.vue"
+// import dateBox from "@/components/date-box.vue"
 
 export default {
   name: 'App',
   components: {
-    // Home
-    // Room
   }
 }
 </script>
